@@ -2,10 +2,17 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Contar Palabras</title>
+    <title>Contar Palabras - Words Counter</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="author" content="@palamago">
+    <meta content="Contador de palabras - Words counter" name="title"/>
+    <meta content="Contador de palabras - Words counter" http-equiv="title"/>
+    <meta content="words, counter, word, visualization, visualize, palabras, contador, visualizar" name="keywords"/>
+    <meta content="Simple word counter. Contador de palabras simple. Visualization. Visualizacion" name="description"/>
+    <meta content="@palamago" name="author"/>
+    <meta content="@palamago" name="DC.Creator"/>
+ 
 
     <!-- Le styles -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
